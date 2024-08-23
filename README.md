@@ -38,7 +38,7 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 - **Real-World Application:** This project provided me with hands-on experience in handling OAuth tokens, session management, and working with RESTful APIs, all while ensuring a smooth and user-friendly interface.
 
 🔗 **[Watch the Video](https://youtu.be/hxVZ_CK-Phs)**  
-*Watch the video to see the Spotify Playlist Compiler in action.*
+*Follow the link to see the Spotify Playlist Compiler in action.*
 ---
 
 ## 🛠️ Software & Technologies
