@@ -6,6 +6,8 @@
 
 ## 👋 About Me
 
+<img src="./assets/kylemarshall.jpg" alt="Profile Picture" width="150" align="right" style="border: 2px solid #000; border-radius: 8px;"/>
+
 I'm a final-year Computer Science student at the University of Pretoria with a strong passion for front-end development and UI/UX engineering. My expertise lies in creating visually appealing and intuitive interfaces that enhance user experiences. I excel at transforming complex requirements into functional designs through thorough user research and prototyping.
 
 ---
@@ -20,8 +22,6 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 **Role:** UI Designer  
 **Description:** Collaborated with a team of 11 to design the interface of a Twitter clone. Focused on wireframes and interface design, ensuring the platform is both functional and aesthetically pleasing. Designed the Wow-Factor which was our unique expansion on Twitter's functionalities: a fun in-app quiz game called Twivia!
 
-## Personal Project
-
 ---
 
 ## 🛠️ Software & Technologies
@@ -29,7 +29,6 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 - **React Framework** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 - **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 - **Figma** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ---
 
@@ -45,7 +44,6 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 - **Human-Computer Interaction (IMY310)**
 - **Data Structures and Algorithms (COS212)**
   
-
 **MATRIC**  
 *Pretoria Boys High School | 2017 - 2021*  
 - Head Prefect (2021)
@@ -76,3 +74,4 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 **All Rights Reserved**  
 This code is proprietary and may not be modified, distributed, or used for commercial purposes without explicit permission from the author. You may view the code but any other use is prohibited.
+
