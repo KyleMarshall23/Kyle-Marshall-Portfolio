@@ -14,13 +14,19 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 ## 🚀 Projects
 
-### [MyCity](./MyCity/README.md) 🌆
+### [MyCity](./MyCity/README.md) 🌆 🚧 *In Progress*
 **Role:** UI/UX Engineer  
 **Description:** Spearheaded the creation and implementation of an intuitive and visually appealing interface for a centralized platform that enables citizens, municipalities, and service providers to report and resolve infrastructure issues. The project has received positive feedback from users and stakeholders.
+
+🔗 **[Download Figma Design](./Figma%20Designs/MyCity%20Figma%20Design.fig)**  
+*To view the design, download the file and open it in Figma.*
 
 ### [Twitter Clone](./Twitter%20Clone/README.md) 🐦
 **Role:** UI Designer  
 **Description:** Collaborated with a team of 11 to design the interface of a Twitter clone. Focused on wireframes and interface design, ensuring the platform is both functional and aesthetically pleasing. Designed the Wow-Factor which was our unique expansion on Twitter's functionalities: a fun in-app quiz game called Twivia!
+
+🔗 **[Download Figma Design](./Figma%20Designs/Twitter%20Clone%20Figma%20Design.fig)**  
+*To view the design, download the file and open it in Figma.*
 
 ---
 
