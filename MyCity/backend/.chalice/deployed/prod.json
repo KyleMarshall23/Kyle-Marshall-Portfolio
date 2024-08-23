@@ -1,0 +1,23 @@
+{
+  "resources": [
+    {
+      "name": "default-role",
+      "resource_type": "iam_role",
+      "role_arn": "arn:aws:iam::637423247704:role/mycity-api-prod",
+      "role_name": "mycity-api-prod"
+    },
+    {
+      "name": "api_handler",
+      "resource_type": "lambda_function",
+      "lambda_arn": "arn:aws:lambda:eu-west-1:637423247704:function:mycity-api-prod"
+    },
+    {
+      "name": "rest_api",
+      "resource_type": "rest_api",
+      "rest_api_id": "sqtiboblx8",
+      "rest_api_url": "https://sqtiboblx8.execute-api.eu-west-1.amazonaws.com/prod/"
+    }
+  ],
+  "schema_version": "2.0",
+  "backend": "api"
+}

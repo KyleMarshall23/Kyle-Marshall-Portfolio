@@ -1,0 +1,23 @@
+.chalice/deployments/
+
+# IDEs
+.vscode
+
+# virtual environments
+.chalice/venv/
+mycity-venv/
+
+# auto-generated python bytecode
+__pycache__/
+
+# env files
+.env
+.env.local
+.env.development
+.env.production
+
+# all installed dependencies
+uninstall.txt
+
+# WSL Zone Identifier files
+*.Identifier
