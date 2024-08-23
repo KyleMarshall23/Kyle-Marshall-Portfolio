@@ -1,6 +1,6 @@
 # Kyle Marshall 👨‍💻
 
-**Final Year BSc Computer Science Student | Passionate Front-End Developer**
+**Final Year BSc Computer Science Student | Passionate Front-End Developer & UI/UX Engineer**
 
 ---
 
