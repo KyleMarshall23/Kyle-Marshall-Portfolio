@@ -37,8 +37,8 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 - **Spotify API Integration:** Through seamless integration with the Spotify API, the tool handles authentication, session management, and playlist creation, navigating users to their newly created playlist with a simple click.
 - **Real-World Application:** This project provided me with hands-on experience in handling OAuth tokens, session management, and working with RESTful APIs, all while ensuring a smooth and user-friendly interface.
 
-🔗 **[Watch the Video](./Spotify%20Playlist%20Compiler/Yearly%20Playlist%20Video.mp4)**  
-*Download the above file to see the Spotify Playlist Compiler in action.*
+🔗 **[Watch the Video](https://youtu.be/hxVZ_CK-Phs)**  
+*Watch the video to see the Spotify Playlist Compiler in action.*
 ---
 
 ## 🛠️ Software & Technologies
