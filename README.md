@@ -28,6 +28,17 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 🔗 **[Download Figma Design](./Figma%20Designs/Twitter%20Clone%20Figma%20Design.fig)**  
 *To view the design, download the file and open it in Figma.*
 
+### Spotify Playlist Compiler 🎧
+**Role:** Full-Stack Developer  
+**Description:** The Spotify Playlist Compiler is a personal passion project that showcases my love for music and technical problem-solving. This tool automates the process of compiling a year-end playlist from my 12 monthly Spotify playlists, ordered from best to worst. 
+
+- **Data Structures & Algorithms:** The project leverages stack data structures to manage and display Spotify song objects, including album art, titles, and artists for the 12 most recent monthly playlists.
+- **UI Design:** The interface allows for an intuitive selection process, enabling users to preview their compiled playlist before finalizing it.
+- **Spotify API Integration:** Through seamless integration with the Spotify API, the tool handles authentication, session management, and playlist creation, navigating users to their newly created playlist with a simple click.
+- **Real-World Application:** This project provided me with hands-on experience in handling OAuth tokens, session management, and working with RESTful APIs, all while ensuring a smooth and user-friendly interface.
+
+🔗 **[Watch the Video](./Spotify%20Playlist%20Compiler/Yearly%20Playlist%20Video.mp4)**  
+*See the Spotify Playlist Compiler in action by watching this video demonstration.*
 ---
 
 ## 🛠️ Software & Technologies
