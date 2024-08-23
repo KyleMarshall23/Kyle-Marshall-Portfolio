@@ -14,11 +14,11 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 ## 🚀 Projects
 
-### [MyCity](https://github.com/COS301-SE2024/MyCity) 🌆
+### [MyCity](./MyCity/README.md) 🌆
 **Role:** UI/UX Engineer  
 **Description:** Spearheaded the creation and implementation of an intuitive and visually appealing interface for a centralized platform that enables citizens, municipalities, and service providers to report and resolve infrastructure issues. The project has received positive feedback from users and stakeholders.
 
-### [Twitter Clone](https://github.com/COS301-SE2024/MiniProject13) 🐦
+### [Twitter Clone](./Twitter%20Clone/README.md) 🐦
 **Role:** UI Designer  
 **Description:** Collaborated with a team of 11 to design the interface of a Twitter clone. Focused on wireframes and interface design, ensuring the platform is both functional and aesthetically pleasing. Designed the Wow-Factor which was our unique expansion on Twitter's functionalities: a fun in-app quiz game called Twivia!
 
@@ -37,7 +37,6 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 ### **Design Tools:**
 - ![Figma](https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
 
 ---
 
@@ -86,4 +85,3 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 **All Rights Reserved**  
 This code is proprietary and may not be modified, distributed, or used for commercial purposes without explicit permission from the author. You may view the code but any other use is prohibited.
-
