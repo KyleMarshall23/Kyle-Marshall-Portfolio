@@ -26,9 +26,18 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 ## 🛠️ Software & Technologies
 
-- **React Framework** ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- **Tailwind CSS** ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-- **Figma** ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+### **Languages:**
+- ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### **Frameworks & Libraries:**
+- ![React](https://img.shields.io/badge/-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white) ![NextUI](https://img.shields.io/badge/-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+### **Styling:**
+- ![CSS3](https://img.shields.io/badge/-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### **Design Tools:**
+- ![Figma](https://img.shields.io/badge/-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
 
 ---
 
@@ -39,16 +48,19 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 **Notable Courses:**
 - **Software Engineering (COS301)**
+- **Compiler Construction (COS341)**
 - **Artificial Intelligence (COS314)**
 - **Database Systems (COS326)**
 - **Human-Computer Interaction (IMY310)**
+- **Netcentric Computer Systems (COS216)**
+- **Software Modelling (COS214)**
 - **Data Structures and Algorithms (COS212)**
   
 **MATRIC**  
 *Pretoria Boys High School | 2017 - 2021*  
 - Head Prefect (2021)
 - RCL Secretary (2020)
-- Academic Full Colours (> 85%)
+- Academic Full Colours (Average > 85%)
 
 ---
 
