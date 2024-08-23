@@ -14,7 +14,7 @@ I'm a final-year Computer Science student at the University of Pretoria with a s
 
 ## 🚀 Projects
 
-### [MyCity](./MyCity/README.md) 🌆 🚧 *In Progress*
+### [MyCity](./MyCity/README.md) 🌆 (*In Progress*)
 **Role:** UI/UX Engineer  
 **Description:** Spearheaded the creation and implementation of an intuitive and visually appealing interface for a centralized platform that enables citizens, municipalities, and service providers to report and resolve infrastructure issues. The project has received positive feedback from users and stakeholders.
 
